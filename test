@@ -8,6 +8,7 @@ int hello1Function(string name1);
 int hello2Function(string name2); 
 int main() 
 { 
+// Pulling a request //
 } 
 string name1="your name1"; 
 hello1Function(name1); 
@@ -37,6 +38,5 @@ using namespace std;
 int hello2Function(string name2) 
 { 
 cout << "hello World " << name2 << endl; 
-// Hello this is an edit
 return 0; 
 } 
